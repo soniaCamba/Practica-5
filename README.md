@@ -1,6 +1,6 @@
 # Practica-5
 
-## CODIGO
+## CÓDIGO
 ```
 #include <Arduino.h>
 // Esta libreria nos permitirá comunicarnos con I2C.
